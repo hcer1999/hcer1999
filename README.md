@@ -1,16 +1,17 @@
-### Hi there 👋
+<a href="https://github.com/hcer1999">
 
-<!--
-**hcer1999/hcer1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hcer1999&column=7&theme=onedark"/>
+  </p>
 
-Here are some ideas to get you started:
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/hcer1999?template=terminal" />
+</a>
+
+# hcer1999 🌝
+
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=hcer1999&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcer1999&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=hcer1999&repo=my-now-blog&theme=dark">
